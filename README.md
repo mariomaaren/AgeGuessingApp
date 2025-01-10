@@ -1,3 +1,5 @@
+Press the green Code button and then press Download ZIP to download the files
+
 This script can calcukate your age of you awnser the questions...
 
 (WARNING: This is a joke, you need to enter your age for it be calculated)
